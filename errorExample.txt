@@ -1,0 +1,9 @@
+#inclode<studio.h>
+#master
+#develope
+
+48438174
+
+int main(){
+   printf("hello world!!\n");
+}
