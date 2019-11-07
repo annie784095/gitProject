@@ -1,8 +1,5 @@
+[![Build Status](https://travis-ci.org/annie784095/gitProject.svg?branch=master)](https://travis-ci.org/annie784095/gitProject)
 #inclode<studio.h>
-#master
-#develope
-
-14541154154
 
 int main(){
    printf("hello world!!\n");
