@@ -1,5 +1,5 @@
 
-
+[![Build Status](https://travis-ci.org/annie784095/gitProject.svg?branch=master)](https://travis-ci.org/annie784095/gitProject)
 # gitProject
 <<<<<<< HEAD
 =======
