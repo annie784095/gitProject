@@ -1,5 +1,5 @@
 #master
-
+[![Build Status](https://travis-ci.com/annie784095/gitProject.svg?branch=master)](https://travis-ci.com/annie784095/gitProject)
 #示範Git用的程式碼！
 
 def add(a, b):
