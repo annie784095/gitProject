@@ -1,6 +1,4 @@
-
-[![Build Status](https://travis-ci.org/annie784095/gitProject.svg?branch=master)](https://travis-ci.org/annie784095/gitProject)
-# gitProject
+!https://travis-ci.com/annie784095/gitProject.svg?branch=master!:https://travis-ci.com/annie784095/gitProject
 <<<<<<< HEAD
 =======
 A homwork of class
